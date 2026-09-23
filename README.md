@@ -2,8 +2,6 @@
 
 Wanderlust AI Concierge is an intelligent, multi-modal travel assistant built with the Google Agent Development Kit (ADK) and deployed as an Agent-to-Agent (A2A) service on Google Cloud. It provides personalized travel itineraries, dietary-aware restaurant recommendations, live weather reports, currency conversion, custom postcard generation, and short destination video previews.
 
-![Wanderlust AI Concierge Demo](demo.gif)
-
 ---
 
 ## 🌟 Implemented Features & Architecture
